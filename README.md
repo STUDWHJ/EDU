@@ -28,7 +28,7 @@ import matplotlib.pyplot as plt
 --
 Data Source：
 --  
---
+
 The dataset we selected can be briefly described as follows.  
 Data 1 is a dataset composed of tuberculosis foci, which contains 138 X-Ray images of tuberculosis patients before and after treatment, 58 of which are abnormal pictures (with tuberculosis manifestations) and 80 normal pictures.  
 Data 2 contains 888 cases of low-dose lung CT image data, including 1186 nodules. The number of slices contained in each image will vary with various patients, scanning machines and scanning layer thickness.  
