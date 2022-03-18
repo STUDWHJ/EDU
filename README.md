@@ -27,8 +27,7 @@ import matplotlib.pyplot as plt
 .... 
 --
 Data Source：
---
-![image](https://user-images.githubusercontent.com/101448564/158796655-25ad677d-f91b-4146-a141-79a5fe8b2019.png)  
+--  
 --
 The dataset we selected can be briefly described as follows.  
 Data 1 is a dataset composed of tuberculosis foci, which contains 138 X-Ray images of tuberculosis patients before and after treatment, 58 of which are abnormal pictures (with tuberculosis manifestations) and 80 normal pictures.  
@@ -41,7 +40,6 @@ Data 7 is a retinal fundus angiography dataset about pathological myopia (PM), i
 --
 Reselt：
 --
-![image](https://user-images.githubusercontent.com/101448564/158796529-9867c591-0462-4dc5-a65a-8a8e03cc6c18.png)  
 The segmentation efficiency results show that the convergence speed of E-DU is the fastest, and the addition of MDE module can effectively save peak memory usage (PMU) and average time per step (ATS).
 --
 
