@@ -3,7 +3,7 @@ Contents
 ---
 Thread: 
 --
-We use spatial enhancement filtering technology to make up for the semantic gap, and propose an enhanced ense U-Net (E-DU), which aims to be applied to multi-modal medical image segmentation, so as to improve the segmentation performance and efficiency.  
+We use spatial enhancement filtering technology to make up for the semantic gap, and propose an enhanced Dense U-Net (E-DU), which aims to be applied to multi-modal medical image segmentation, so as to improve the segmentation performance and efficiency.  
 --
 Methods: 
 --
@@ -38,7 +38,7 @@ Data 5 is a microscope pathological image dataset composed of skin lesions, whic
 Data 6 is a dataset composed of 10000 polyps.  
 Data 7 is a retinal fundus angiography dataset about pathological myopia (PM), including color fundus retinal images of 1200 subjects, 400 training, verification and test datasets respectively   
 --
-Reselt：
+Result：
 --
 The segmentation efficiency results show that the convergence speed of E-DU is the fastest, and the addition of MDE module can effectively save peak memory usage (PMU) and average time per step (ATS).
 --
